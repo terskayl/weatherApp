@@ -1,0 +1,16 @@
+body {
+    font-family: 'Odibee Sans', sans-serif;
+    
+}
+
+.img-parent{
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1.0) 40%, transparent 100%);
+
+  }
+.rain-img{
+    background-image: url("rain.jpg");
+}
+
+.text-7xl{
+    font-size: 4.5rem;
+}
